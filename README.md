@@ -35,3 +35,6 @@ Hola its done... Deployed to Firebase !!!
 -  https://airbnb-clone-55c6e.web.app/
 
 
+#### Screenshots
+
+![Airbnb](/screenshots/airbnb.png)
